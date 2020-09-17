@@ -1,2 +1,2 @@
 # COLLISION-PREDICTION-ANALYSIS
-This Project aims to use data to predict a collision
+This Project aims to predict severity of collision
